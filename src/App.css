@@ -1,0 +1,8 @@
+/* If not using Tailwind, replace with your own CSS reset and styles */
+body {
+  margin: 0;
+  font-family: sans-serif;
+  background: #f9f9f9;
+}
+
+/* Add your component styles here */
