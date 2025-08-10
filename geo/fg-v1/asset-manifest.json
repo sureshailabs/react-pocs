@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react-pocs/geo/fg-v1/static/css/main.cf890fdb.css",
+    "main.css": "/react-pocs/geo/fg-v1/static/css/main.d9f04f2c.css",
     "main.js": "/react-pocs/geo/fg-v1/static/js/main.55360c26.js",
     "static/js/453.da61f873.chunk.js": "/react-pocs/geo/fg-v1/static/js/453.da61f873.chunk.js",
     "index.html": "/react-pocs/geo/fg-v1/index.html",
-    "main.cf890fdb.css.map": "/react-pocs/geo/fg-v1/static/css/main.cf890fdb.css.map",
+    "main.d9f04f2c.css.map": "/react-pocs/geo/fg-v1/static/css/main.d9f04f2c.css.map",
     "main.55360c26.js.map": "/react-pocs/geo/fg-v1/static/js/main.55360c26.js.map",
     "453.da61f873.chunk.js.map": "/react-pocs/geo/fg-v1/static/js/453.da61f873.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.cf890fdb.css",
+    "static/css/main.d9f04f2c.css",
     "static/js/main.55360c26.js"
   ]
 }
