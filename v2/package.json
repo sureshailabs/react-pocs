@@ -2,7 +2,7 @@
   "name": "v2",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://sureshailabs.github.io/react-pocs/v2",
+  "homepage": "https://sureshailabs.github.io/react-pocs/v2-deploy",
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
     "@testing-library/jest-dom": "^6.6.4",
