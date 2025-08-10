@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react-pocs/static/css/main.0f7b8785.css",
-    "main.js": "/react-pocs/static/js/main.c665c77e.js",
-    "static/js/453.93f46c8a.chunk.js": "/react-pocs/static/js/453.93f46c8a.chunk.js",
-    "index.html": "/react-pocs/index.html",
-    "main.0f7b8785.css.map": "/react-pocs/static/css/main.0f7b8785.css.map",
-    "main.c665c77e.js.map": "/react-pocs/static/js/main.c665c77e.js.map",
-    "453.93f46c8a.chunk.js.map": "/react-pocs/static/js/453.93f46c8a.chunk.js.map"
+    "main.css": "/react-pocs/v2/static/css/main.5a3bb425.css",
+    "main.js": "/react-pocs/v2/static/js/main.eda45b97.js",
+    "static/js/453.1c1c71ce.chunk.js": "/react-pocs/v2/static/js/453.1c1c71ce.chunk.js",
+    "index.html": "/react-pocs/v2/index.html",
+    "main.5a3bb425.css.map": "/react-pocs/v2/static/css/main.5a3bb425.css.map",
+    "main.eda45b97.js.map": "/react-pocs/v2/static/js/main.eda45b97.js.map",
+    "453.1c1c71ce.chunk.js.map": "/react-pocs/v2/static/js/453.1c1c71ce.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0f7b8785.css",
-    "static/js/main.c665c77e.js"
+    "static/css/main.5a3bb425.css",
+    "static/js/main.eda45b97.js"
   ]
 }
